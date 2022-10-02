@@ -28,6 +28,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-[Arsero](https://github.com/Arsero) - azzedine.develop@gmail.com
+[Arsero](https://github.com/Arsero)
 
 Project Link: [https://github.com/Arsero/ghydrate](https://github.com/Arsero/ghydrate)
